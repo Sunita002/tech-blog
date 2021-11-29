@@ -12,7 +12,6 @@ View the deployed page at [Tech Blog](https://warm-hollows-35992.herokuapp.com/l
 * [Usage](#Usage)
    * [Screenshots](#Screenshots)
 * [Technologies](#Technologies)
-* [Questions](#Questions)
 * [Contributions](#Contributions)
 <br><br>
 
@@ -21,19 +20,15 @@ Use the "Login" link to login to an existing account or create a new account.  L
 <br><br>
 
 ### Screenshots
-![The Tech Blog Main Page]()
+![main-page](https://user-images.githubusercontent.com/87583026/143804209-041900bd-76ae-4870-8c6b-060e1c68f293.PNG)
 All posts are available on the main page.
 <br><br>
 
-![Single-post view to add comments]()
-Logged in users can add a comment to a post.
-<br><br>
-
-![Create post functionality]()
+![add-new-post](https://user-images.githubusercontent.com/87583026/143804083-2362f48c-553d-4172-a54d-5f1d53509753.PNG)
 Logged in users can add new posts from their dashboard.
 <br><br>
 
-![Edit post functionality]()
+![deleting-posts](https://user-images.githubusercontent.com/87583026/143804175-37c6a2cd-2e90-4878-8d0a-9a208528993b.PNG)
 Posts may also be edited or deleted.
 <br><br>
 
